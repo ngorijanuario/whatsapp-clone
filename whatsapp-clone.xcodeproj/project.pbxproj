@@ -14,6 +14,11 @@
 		FD424F162ADC7B0F00B08576 /* whatsapp_cloneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F152ADC7B0F00B08576 /* whatsapp_cloneTests.swift */; };
 		FD424F202ADC7B0F00B08576 /* whatsapp_cloneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F1F2ADC7B0F00B08576 /* whatsapp_cloneUITests.swift */; };
 		FD424F222ADC7B0F00B08576 /* whatsapp_cloneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F212ADC7B0F00B08576 /* whatsapp_cloneUITestsLaunchTests.swift */; };
+		FD424F2F2ADC82A000B08576 /* t1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F2E2ADC82A000B08576 /* t1.swift */; };
+		FD424F312ADC82A900B08576 /* t2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F302ADC82A900B08576 /* t2.swift */; };
+		FD424F332ADC82B100B08576 /* t3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F322ADC82B100B08576 /* t3.swift */; };
+		FD424F352ADC82BA00B08576 /* t4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F342ADC82BA00B08576 /* t4.swift */; };
+		FD424F372ADC82C500B08576 /* t5.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD424F362ADC82C500B08576 /* t5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +49,11 @@
 		FD424F1B2ADC7B0F00B08576 /* whatsapp-cloneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "whatsapp-cloneUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD424F1F2ADC7B0F00B08576 /* whatsapp_cloneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whatsapp_cloneUITests.swift; sourceTree = "<group>"; };
 		FD424F212ADC7B0F00B08576 /* whatsapp_cloneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whatsapp_cloneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FD424F2E2ADC82A000B08576 /* t1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t1.swift; sourceTree = "<group>"; };
+		FD424F302ADC82A900B08576 /* t2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t2.swift; sourceTree = "<group>"; };
+		FD424F322ADC82B100B08576 /* t3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t3.swift; sourceTree = "<group>"; };
+		FD424F342ADC82BA00B08576 /* t4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t4.swift; sourceTree = "<group>"; };
+		FD424F362ADC82C500B08576 /* t5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +106,11 @@
 			children = (
 				FD424F042ADC7B0900B08576 /* whatsapp_cloneApp.swift */,
 				FD424F062ADC7B0900B08576 /* ContentView.swift */,
+				FD424F2E2ADC82A000B08576 /* t1.swift */,
+				FD424F302ADC82A900B08576 /* t2.swift */,
+				FD424F322ADC82B100B08576 /* t3.swift */,
+				FD424F342ADC82BA00B08576 /* t4.swift */,
+				FD424F362ADC82C500B08576 /* t5.swift */,
 				FD424F082ADC7B0E00B08576 /* Assets.xcassets */,
 				FD424F0A2ADC7B0E00B08576 /* Preview Content */,
 			);
@@ -258,6 +273,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD424F072ADC7B0900B08576 /* ContentView.swift in Sources */,
+				FD424F352ADC82BA00B08576 /* t4.swift in Sources */,
+				FD424F312ADC82A900B08576 /* t2.swift in Sources */,
+				FD424F372ADC82C500B08576 /* t5.swift in Sources */,
+				FD424F332ADC82B100B08576 /* t3.swift in Sources */,
+				FD424F2F2ADC82A000B08576 /* t1.swift in Sources */,
 				FD424F052ADC7B0900B08576 /* whatsapp_cloneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
